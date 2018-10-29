@@ -23,3 +23,5 @@ It will form a pyramid up or down with the word 'anantnema' in a repeated fashio
          anaam         
           ntn            
            e   
+
+closure.js : example of closure.
